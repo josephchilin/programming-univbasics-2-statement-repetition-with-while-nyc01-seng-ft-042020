@@ -5,5 +5,5 @@ while count >= 1 && count != new_year do
   puts count.to_s 
 
 
-  count +- 1 
+  count -= 1 
 end
